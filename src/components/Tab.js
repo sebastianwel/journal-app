@@ -1,4 +1,4 @@
-import { Children } from "react";
+
 import { Tabs } from "./Tabs.js";
 
 //Tab
